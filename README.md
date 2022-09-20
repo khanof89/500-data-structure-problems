@@ -1,3 +1,5 @@
+Special thanks to [King Rayhan](https://kingrayhan.medium.com/)
+
 ```
 |____binary_tree
 | |____python
@@ -19,6 +21,7 @@
 | |____java
 | |____php
 | |____cpp
+|____README.md
 |____divide_conquer
 | |____python
 | |____java
@@ -29,6 +32,7 @@
 | |____java
 | |____php
 | |____cpp
+|____.gitignore
 |____binary_search_tree
 | |____python
 | |____java
@@ -183,6 +187,16 @@
 | |____php
 | |____cpp
 |____stack
+| |____python
+| |____java
+| |____php
+| |____cpp
+|____heaps
+| |____python
+| |____java
+| |____php
+| |____cpp
+|____matrix
 | |____python
 | |____java
 | |____php
